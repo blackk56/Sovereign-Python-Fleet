@@ -31,7 +31,7 @@ business_metadata = {
 }
 
 # History Logs of spam accounts (Set auto-removes duplicates)
-spam_accounts_Logs = {
+spam_accounts_logs = {
     "Acc-36", "Hacker_Bot_01", "Hacker_Bot_02", "Acc-23"
 }
 
@@ -85,7 +85,7 @@ tax_percentage = business_metadata["Store_Config"]["Tax_Rate"]
 total_clean_revenue = 0.0
 
 for clean_invoice in cleaned_invoice_ledger:
-    total_clean_revenue += clean_Invoice[2]
+    total_clean_revenue += clean_invoice[2]
 
 calculated_tax_pool = total_clean_revenue * tax_percentage
 net_sovereign_profile = total_clean_revenue - calculated_tax_pool
