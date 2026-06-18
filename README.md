@@ -37,7 +37,7 @@
 - Building automation tools for small business needs
 
 ## 📧 Contact
-Looking for junior Python developer roles (remote required). Open to freelance projects.
+Looking for junior Python developer roles (remote required). 
 
 ---
 
