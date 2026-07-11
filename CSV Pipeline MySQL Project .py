@@ -1,5 +1,5 @@
 # =============================================================================================
-# The last MySQL learning Projcet 18: Automated CSV External Data Extraction & SQL Pipeline
+# The last MySQL learning Projcet 19: Automated CSV External Data Extraction & SQL Pipeline
 # =============================================================================================
 
 import csv
