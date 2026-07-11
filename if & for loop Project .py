@@ -1,5 +1,5 @@
 # ======================================== 
-# Project 07: Hybrid Interactive For-Loop
+# Project 08: Hybrid Interactive For-Loop
 # ======================================== 
 
 total_audits = int(input("How many revenue streams do you want to audit today, U? "))
