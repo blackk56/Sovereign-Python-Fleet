@@ -1,0 +1,14 @@
+# A small sample test of how CSV file would be like
+
+
+Invoice_ID,Client_Name,Sales_Value
+9001,Alpha_Dental_Group,4200.50
+9002,Omega_Medical_Supply,1850.75
+9003,Delta_Farmers_HQ,6100.00
+9004,Beta_Armour_Base,11500.65
+9005,Gamma_Properties_Co,7500.25
+9006,Zeta_Charity_Founder,3500.00
+9007,Sigma_Engineering_Partners,7850.15
+9008,Nova_Marketing_Site,6750.00
+9009,Cita_Para_Teaching,3450.10
+9010,Quida_Health_Care,6250.00    

@@ -1,0 +1,11 @@
+# Medical Stock Raw list
+
+
+Item_Code,Equipment_Name,Stock_Count,Unit_Value,Safety_Status
+MED-101,Surgical_Laser_A,3,15000.00,Verified
+MED-102,Digital_XRay_Scanner,1,28000.50,Verified
+MED-103,Ultrasound_Probe,5,8500.00,Pending
+MED-101,Surgical_Laser_A,3,15000.00,Verified
+MED-104,Dental_Drill_Core,12,1200.00,Verified
+MED-105,Patient_Monitor_X,0,3500.00,Critical
+
