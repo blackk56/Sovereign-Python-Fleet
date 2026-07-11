@@ -98,7 +98,7 @@ python "Business Data Cleaner Project .py"
 ---
 
 ## 📧 Contact / Job preferences
-Looking for junior Python developer roles (remote required). Please reach out via GitHub or email if you have opportunities or feedback.
+Looking for junior Data Analyst roles (remote required), Skills; Python & MySQL, Please reach out via GitHub or email
 
 ---
 
