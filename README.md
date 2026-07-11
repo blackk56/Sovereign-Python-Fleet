@@ -25,7 +25,7 @@ Short practice scripts that teach the basics:
 - Data structures: lists, dicts, sets, tuples
 - File I/O and basic error handling
 - Small algorithmic problems and practice exercises
-- Total Projects: 19 Projects
+- Total Projects: 20 Projects
 
 These are small, self-contained files you can run directly with Python for quick practice.
 
