@@ -1,5 +1,5 @@
 # =====================================================
-# Project 15: Inserting Sql Data into MySQL Table 
+# Project 16: Inserting Sql Data into MySQL Table 
 # =====================================================
 
 import mysql.connector # UPGRADED: Using official Enterprise MySQL database engine connection drivers
