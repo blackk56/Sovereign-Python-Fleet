@@ -1,5 +1,5 @@
 # =======================================================================
-# Project 17: SQL Statistical & Financial Metrics Analytics Framework
+# Project 18: SQL Statistical & Financial Metrics Analytics Framework
 # =======================================================================
 
 import mysql.connector # UPGRADED: Using official Enterprise MySQL database engine connection drivers
