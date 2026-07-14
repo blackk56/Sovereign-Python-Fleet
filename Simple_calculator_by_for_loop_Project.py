@@ -11,7 +11,7 @@ for i in range(total_audits):
     if cash >= 100000:
         print("--> Target Met! Sovereign HQ unlocked.")
     elif cash >= 50000:
-        print("--> Halfway there. Keep grinding for Georgia.")
+        print("--> Halfway there. Keep grinding for The HQ.")
     else:
         print("--> Sub-par returns. Pure rat level. Stay silent.")
 
