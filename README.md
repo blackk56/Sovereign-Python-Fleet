@@ -87,9 +87,12 @@ python "Business Data Cleaner Project .py"
 
 ---
 
-## 📧 Professional Contact & Preferences
+## 📧 Professional Contact & ServicesFreelance Services: 
 
-*   **Target Roles:** Junior Remote Data Analyst / Business Intelligence Associate
-*   **Technical Skillsets:** Python (Pandas/Core automation), SQL (MySQL/SQLite Architecture), Relational Database Structuring.
-*   **Availability:** Open for full-time remote contracts worldwide. 
-*   *Please reach out directly through GitHub issues, or via the contact email linked within this account profile.*
+*I am open to custom Python data automation, Excel/CSV cleaning, and SQL database integration tasks.*
+
+*You can safely order my services directly and hire me on my official Fiverr profile here: [https://www.fiverr.com/opaida_m]*
+
+**Target Roles:** Open for Junior Remote Data Analyst / Backend Automation Associate positions.
+
+**How to Reach Me:** For business inquiries, project parameters, or full-time remote contracts worldwide, please open a direct GitHub Issue in this repository or contact me through my Fiverr messages.
